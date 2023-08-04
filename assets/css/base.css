@@ -1,0 +1,65 @@
+:root {
+    --while-color: #fff;
+    --black-color: #000;
+    --text-color: #343a40;
+    --red-color: #d70018;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    line-height: 1.5;
+    font-family: 'Roboto', sans-serif !important;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: transparent;
+    font-weight: 400;
+    color: #4a4a4a;
+    font-size: 1rem;
+}
+
+a {
+    color: #485fc7;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+i {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20px;
+    width: 20px;
+    font-size: 2rem;
+    color: var(--while-color);
+}
+
+span {
+    color: var(--while-color);
+    font-size: 1.3rem;
+    font-weight: 300;
+}
+
+p {
+    color: var(--while-color);
+    margin: 0;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+}
+
+
+
+ 
