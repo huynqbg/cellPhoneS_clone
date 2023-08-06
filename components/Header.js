@@ -60,7 +60,7 @@ function Header() {
                         <div class="header-search-history">
                             <div class="search-history-sale">
                                 <a href="" class="">
-                                    <img class="history-sale-img" src="/assets/img/sale_off/smaill.webp" alt="sall off">
+                                    <img class="history-sale-img" src="./assets/img/sale_off/smaill.webp" alt="sall off">
                                 </a>
                             </div>
                             <div class="search-history-trend">
